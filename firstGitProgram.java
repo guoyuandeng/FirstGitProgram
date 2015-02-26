@@ -1,4 +1,4 @@
-c class firstGitProgram {
+public class firstGitProgram {
 
 	
 		public static void main(String[] args) {
